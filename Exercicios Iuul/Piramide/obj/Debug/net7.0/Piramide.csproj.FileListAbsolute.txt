@@ -1,0 +1,15 @@
+C:\Users\walde\OneDrive\Documentos\wando\Exercicios Iuul\Piramide\bin\Debug\net7.0\Piramide.exe
+C:\Users\walde\OneDrive\Documentos\wando\Exercicios Iuul\Piramide\bin\Debug\net7.0\Piramide.deps.json
+C:\Users\walde\OneDrive\Documentos\wando\Exercicios Iuul\Piramide\bin\Debug\net7.0\Piramide.runtimeconfig.json
+C:\Users\walde\OneDrive\Documentos\wando\Exercicios Iuul\Piramide\bin\Debug\net7.0\Piramide.dll
+C:\Users\walde\OneDrive\Documentos\wando\Exercicios Iuul\Piramide\bin\Debug\net7.0\Piramide.pdb
+C:\Users\walde\OneDrive\Documentos\wando\Exercicios Iuul\Piramide\obj\Debug\net7.0\Piramide.csproj.AssemblyReference.cache
+C:\Users\walde\OneDrive\Documentos\wando\Exercicios Iuul\Piramide\obj\Debug\net7.0\Piramide.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\walde\OneDrive\Documentos\wando\Exercicios Iuul\Piramide\obj\Debug\net7.0\Piramide.AssemblyInfoInputs.cache
+C:\Users\walde\OneDrive\Documentos\wando\Exercicios Iuul\Piramide\obj\Debug\net7.0\Piramide.AssemblyInfo.cs
+C:\Users\walde\OneDrive\Documentos\wando\Exercicios Iuul\Piramide\obj\Debug\net7.0\Piramide.csproj.CoreCompileInputs.cache
+C:\Users\walde\OneDrive\Documentos\wando\Exercicios Iuul\Piramide\obj\Debug\net7.0\Piramide.dll
+C:\Users\walde\OneDrive\Documentos\wando\Exercicios Iuul\Piramide\obj\Debug\net7.0\refint\Piramide.dll
+C:\Users\walde\OneDrive\Documentos\wando\Exercicios Iuul\Piramide\obj\Debug\net7.0\Piramide.pdb
+C:\Users\walde\OneDrive\Documentos\wando\Exercicios Iuul\Piramide\obj\Debug\net7.0\Piramide.genruntimeconfig.cache
+C:\Users\walde\OneDrive\Documentos\wando\Exercicios Iuul\Piramide\obj\Debug\net7.0\ref\Piramide.dll
