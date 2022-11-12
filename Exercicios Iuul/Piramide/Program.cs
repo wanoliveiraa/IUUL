@@ -16,7 +16,7 @@ class Program
             for (z = z - 1; z > 0; z--){
                 Console.Write(z);
             }
-            Console.WriteLine("");
+            Console.WriteLine(" ");
 
         }
 
